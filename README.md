@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Arun!!
 
-<!--
-**ArunKMR1995/ArunKMR1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Data Operations Analyst with over 6 years of experience, including 4.5 years specializing in data analysis, transformation, and visualization. My expertise spans SQL, Python, and BI tools like Tableau, Power BI and Mode Analytics, which I use to uncover hidden trends and insights that drive business growth and optimize processes.
 
-Here are some ideas to get you started:
+🔧 Technical Skills
+- Languages: SQL, Python
+- Frameworks: Pandas, NumPy, Matplotlib, Scikit-learn (basic), Statsmodels (basic)
+- Tools: MySQL, Jupyter Notebook, Microsoft Excel, Tableau, Power BI, Mode Analytics, Asana, Iterable, Visual Studio Code, Confluence
+- Specialties: Descriptive and Quantitative Analysis, Data Cleaning, Data Wrangling, Data Mining, Data Analytics, Data Visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 What I’m Working On
+- Enhancing my Python and SQL skills through hands-on projects.
+- Exploring advanced analytics techniques and their applications in real-world business scenarios.
+- Contributing to open-source projects that align with my expertise and interests.
+
+📈 Let's Connect
+
+I am passionate about leveraging data to solve complex problems and am always open to collaborating on projects that have a meaningful impact. Feel free to reach out to me via LinkedIn[https://www.linkedin.com/in/arun-kumar-r-234b97116/] or check out my repositories here on GitHub.
